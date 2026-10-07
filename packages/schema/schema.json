@@ -195,6 +195,10 @@
             "type": "string",
             "description": "e.g. Massachusetts Institute of Technology"
           },
+          "location": {
+            "type": "string",
+            "description": "e.g. Cambridge, MA"
+          },
           "url": {
             "type": "string",
             "description": "e.g. http://facebook.example.com",

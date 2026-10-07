@@ -44,6 +44,7 @@ export const schemaHtml = `{
   }],
   "education": [{
     "institution": <span>"University",</span>
+    "location": <span>"City, Country",</span>
     "url": <span>"https://institution.com/",</span>
     "area": <span>"Software Development",</span>
     "studyType": <span>"Bachelor",</span>

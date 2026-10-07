@@ -19,6 +19,20 @@
       }
     ]
   },
+  "locationValid": {
+    "education": [
+      {
+        "location": "Cambridge, MA"
+      }
+    ]
+  },
+  "locationInvalid": {
+    "education": [
+      {
+        "location": null
+      }
+    ]
+  },
   "areaValid": {
     "education": [
       {
